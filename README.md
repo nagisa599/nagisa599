@@ -17,7 +17,7 @@
 
 <p align="left"> 
   <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
-  <a href="https://qiita.com/nagisa599"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
+  <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
 
 ### Recent Activities
