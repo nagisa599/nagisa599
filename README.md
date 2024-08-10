@@ -9,16 +9,16 @@
   <a href="http://qiita.com/yuuchubu397"><img height="20" src="https://qiita-badge.apiapi.app/s/yuuchubu397/contributions.svg" /></a>
   <a href="http://qiita.com/yuuchubu397"><img height="20" src="https://qiita-badge.apiapi.app/s/yuuchubu397/posts.svg" /></a>
 </p>
-
-<p align="left"> 
-  <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
-  <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
-</p>
 <p align="left"> 
   <a href="https://github.com/nagisa599/nagisa599/"><img src="https://komarev.com/ghpvc/?username=nagisa599" alt="nagisa599" /></a>
   <a href="https://github.com/nagisa599"><img height="20" src="https://img.shields.io/github/followers/nagisa599?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/nagisa599"><img height="20" src="https://img.shields.io/github/stars/nagisa599?logo=github&style=flat" /></a>
 </p>
+<p align="left"> 
+  <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
+  <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
+</p>
+
 ### Languages
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagisa599&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
