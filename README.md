@@ -14,17 +14,17 @@
   <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
   <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
-
-### Languages
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagisa599&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagisa599&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagisa599&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> 
   <a href="https://github.com/nagisa599/nagisa599/"><img src="https://komarev.com/ghpvc/?username=nagisa599" alt="nagisa599" /></a>
   <a href="https://github.com/nagisa599"><img height="20" src="https://img.shields.io/github/followers/nagisa599?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/nagisa599"><img height="20" src="https://img.shields.io/github/stars/nagisa599?logo=github&style=flat" /></a>
 </p>
+### Languages
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagisa599&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagisa599&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagisa599&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Recent Activities
 
 <p align="left">
