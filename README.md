@@ -6,18 +6,13 @@
   <a href="https://github.com/nagisa599"><img height="20" src="https://img.shields.io/github/stars/nagisa599?logo=github&style=flat" /></a>
 </p>
 
-<p align="left"> 
-  <a href="http://x.com/nagisa599"><img height="20" src="https://img.shields.io/twitter/follow/nagisa599?style=flat&logo=x" /></a>
-  <a href="https://www.reddit.com/user/nagisa599"><img height="20" src="https://img.shields.io/reddit/user-karma/combined/nagisa599?label=Reddit&logo=reddit&style=flat" /></a>
-  <a href="https://stackoverflow.com/users/5720201/nagisa599"><img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /></a>
-</p>
 
 <p align="left">
-  <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/followers?style=plastic" alt="Followers" /></a>
-  <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/articles?style=plastic" alt="Articles" /></a>
-  <a href="http://qiita.com/nagisa599"><img height="20" src="https://qiita-badge.apiapi.app/s/nagisa599/contributions.svg" /></a>
-  <a href="http://qiita.com/nagisa599"><img height="20" src="https://qiita-badge.apiapi.app/s/nagisa599/posts.svg" /></a>
+  <a href="https://zenn.dev/naginagi124"><img height="20" src="https://badgen.org/img/zenn/naginagi124/likes?style=plastic" alt="Likes" /></a>
+  <a href="https://zenn.dev/naginagi124"><img height="20" src="https://badgen.org/img/zenn/naginagi124/followers?style=plastic" alt="Followers" /></a>
+  <a href="https://zenn.dev/naginagi124"><img height="20" src="https://badgen.org/img/zenn/naginagi124/articles?style=plastic" alt="Articles" /></a>
+  <a href="http://qiita.com/yuuchubu397"><img height="20" src="https://qiita-badge.apiapi.app/s/yuuchubu397/contributions.svg" /></a>
+  <a href="http://qiita.com/yuuchubu397"><img height="20" src="https://qiita-badge.apiapi.app/s/yuuchubu397/posts.svg" /></a>
 </p>
 
 <p align="left"> 
