@@ -16,13 +16,8 @@
 </p>
 
 <p align="left"> 
-  <a href="https://nagisa599.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" /></a>
   <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
   <a href="https://qiita.com/nagisa599"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
-  <a href="https://dev.to/nagisa599" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nagisa599" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/nagisa599" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nagisa599" height="30" width="30" /></a>
-  <a href="https://www.quora.com/profile/nagisa599" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="nagisa599" height="30" width="30" /></a>
-  <a href="https://ossinsight.io/analyze/nagisa599" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="nagisa599" height="30" width="30" /></a>
 </p>
 
 ### Recent Activities
