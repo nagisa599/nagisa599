@@ -36,7 +36,8 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=nagisa599&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-
+### 受賞
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=nagisa599/)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ### OSS Insight
 
 <!-- Copy-paste in your Readme.md file -->
