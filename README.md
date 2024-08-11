@@ -35,7 +35,8 @@
 
 
 ### 受賞
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=defe6311604ec614f494614d8bf1e08a/)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+https://www.craftstadium.com/blog/RR240629-hilight
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
 ### OSS Insight
 
 <!-- Copy-paste in your Readme.md file -->
