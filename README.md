@@ -1,7 +1,5 @@
 ## 👋 Hi! I'm nagisa599
 
-
-
 <p align="left">
   <a href="https://zenn.dev/naginagi124"><img height="20" src="https://badgen.org/img/zenn/naginagi124/likes?style=plastic" alt="Likes" /></a>
   <a href="https://zenn.dev/naginagi124"><img height="20" src="https://badgen.org/img/zenn/naginagi124/followers?style=plastic" alt="Followers" /></a>
@@ -37,7 +35,7 @@
 
 
 ### 受賞
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=nagisa599/)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=defe6311604ec614f494614d8bf1e08a/)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ### OSS Insight
 
 <!-- Copy-paste in your Readme.md file -->
