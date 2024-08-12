@@ -61,12 +61,6 @@ Effort award - MY GACHA PON</p>
 
 </table>
 
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
