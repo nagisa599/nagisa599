@@ -52,7 +52,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_backend)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_mobile)](https://github.com/anuraghazra/github-readme-stats)</td>
-  　<td> <p style="color: red;">🏆 チャンピオン - かシャッタ</p>
+  　<td> <p style="color: red;">🥉
+Effort award - MY GACHA PON</p>
   <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
