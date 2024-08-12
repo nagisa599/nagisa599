@@ -37,29 +37,44 @@
 ### Hackson Award
 <table>
   <tr>
-    <th>Live Excitement Products Hackathon</th>
-    <th>GIIKU CAMP Hackason Vol.9 </th>
+    <th style="vertical-align: top;">Live Excitement Products Hackathon</th>
+    <th style="vertical-align: top;">GIIKU CAMP Hackason Vol.9 </th>
   </tr>
   <tr>
-    <td> <a href="https://www.craftstadium.com/blog/RR240629-hilight"> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></a></td>
-    <td><a href="https://x.com/geek_pjt/status/1814952872511221935">  <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="100%"/></a></td>
+    <td style="vertical-align: top;">
+      <a href="https://www.craftstadium.com/blog/RR240629-hilight">
+        <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/>
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://x.com/geek_pjt/status/1814952872511221935">
+        <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="100%"/>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td> <p style="color: red;">🏆 champion - かシャッタ</p>
-         
-  <p><a href="https://github.com/your-username/your-repository">紹介URL</a></p>
-    
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_backend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_mobile)](https://github.com/anuraghazra/github-readme-stats)</td>
-  　<td> <p style="color: red;">🥉
-Effort award - MY GACHA PON</p>
-  <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
-  <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
-
+    <td style="vertical-align: top;">
+      <p style="color: red;">🏆 champion - かシャッタ</p>
+      <p><a href="https://github.com/your-username/your-repository">紹介URL</a></p>
+      <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_backend" alt="Readme Card" />
+        </a>
+      </p>
+      <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_mobile" alt="Readme Card" />
+        </a>
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <p style="color: red;">🥉 Effort award - MY GACHA PON</p>
+      <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
+      <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
+    </td>
   </tr>
-
 </table>
+
 
 </a>
 
