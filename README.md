@@ -35,8 +35,18 @@
 
 
 ### 受賞
-https://www.craftstadium.com/blog/RR240629-hilight
+<div align="center" style="border: 1px solid #ccc; padding: 10px; background-color: white; margin: 20px;">
+  <img src="path_to_image.jpg" alt="説明文" width="100%"/>
+  <h3>タイトル</h3>
+</div>
+
+<div align="center" style="border: 2px solid #ccc; padding: 10px; max-width: 300px;">
+  <img src="path_to_image.jpg" alt="説明文" width="100%"/>
+  <h3>タイトル</h3>
+</div>
+<a  target="_blank" style="display: block" align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 ### OSS Insight
 
 <!-- Copy-paste in your Readme.md file -->
