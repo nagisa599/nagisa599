@@ -41,8 +41,8 @@
     <th>GIIKU CAMP Hackason Vol.9 </th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
-    <td> <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="80%"/></td>
+    <td> <a href="https://www.craftstadium.com/blog/RR240629-hilight"> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></a></td>
+    <td><a href="https://x.com/geek_pjt/status/1814952872511221935">  <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="100%"/></a></td>
   </tr>
   <tr>
     <td> <p style="color: red;">🏆 champion - かシャッタ</p>
