@@ -38,7 +38,7 @@
 <table>
   <tr>
     <th>Live Excitement Products Hackathon</th>
-    <th>Live Excitement Products Hackathon</th>
+    <th>GIIKU CAMP Hackason Vol.9 </th>
   </tr>
   <tr>
     <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
@@ -54,7 +54,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_mobile)](https://github.com/anuraghazra/github-readme-stats)</td>
   　<td> <p style="color: red;">🥉
 Effort award - MY GACHA PON</p>
-  <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
+  <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
+
   </tr>
 
 </table>
