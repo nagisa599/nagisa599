@@ -34,17 +34,41 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=nagisa599&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-### 受賞
-<div align="center" style="border: 1px solid #ccc; padding: 10px; background-color: white; margin: 20px;">
-  <img src="path_to_image.jpg" alt="説明文" width="100%"/>
-  <h3>タイトル</h3>
-</div>
+### Hackson Award
+<table>
+  <tr>
+    <th>Live Excitement Products Hackathon</th>
+    <th>Live Excitement Products Hackathon</th>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
+    <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
+  </tr>
+  <tr>
+    <td> <p style="color: red;">🏆 チャンピオン - かシャッタ</p>
+  <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
+    
 
-<div align="center" style="border: 2px solid #ccc; padding: 10px; max-width: 300px;">
-  <img src="path_to_image.jpg" alt="説明文" width="100%"/>
-  <h3>タイトル</h3>
-</div>
-<a  target="_blank" style="display: block" align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)</td>
+  　<td> <p style="color: red;">🏆 チャンピオン - かシャッタ</p>
+  <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
+   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)</td>
+  </tr>
+
+</table>
+
+
+
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 ### OSS Insight
