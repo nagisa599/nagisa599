@@ -45,14 +45,13 @@
     <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
   </tr>
   <tr>
-    <td> <p style="color: red;">🏆 チャンピオン - かシャッタ</p>
-  <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
+    <td> <p style="color: red;">🏆 champion - かシャッタ</p>
+         
+  <p><a href="https://github.com/your-username/your-repository">紹介URL</a></p>
     
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)</td>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_backend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_mobile)](https://github.com/anuraghazra/github-readme-stats)</td>
   　<td> <p style="color: red;">🏆 チャンピオン - かシャッタ</p>
   <p><a href="https://github.com/your-username/your-repository">GitHubリポジトリを見る</a></p>
    
@@ -71,28 +70,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagisa599&repo=flutter-template)](https://github.com/anuraghazra/github-readme-stats)
 </a>
-### OSS Insight
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nagisa599" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@nagisa599's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
