@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
-    <td> <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/></td>
+    <td> <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="80%"/></td>
   </tr>
   <tr>
     <td> <p style="color: red;">🏆 champion - かシャッタ</p>
