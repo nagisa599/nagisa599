@@ -43,8 +43,8 @@
   </tr>
   <tr>
      <td style="vertical-align: top;">
-      <a href="https://x.com/geek_pjt/status/1814952872511221935">
-        <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="100%"/>
+      <a href="https://www.ogis-ri.co.jp/otc/contest/osca2024/judge.html">
+        <img src="https://github.com/user-attachments/assets/bfd268af-553f-4772-960e-150af62379f9" alt="hackasonチャンピオン" width="100%"/>
       </a>
     </td>
     <td style="vertical-align: top;">
