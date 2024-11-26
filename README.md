@@ -44,7 +44,7 @@
   <tr>
      <td style="vertical-align: top;">
       <a href="https://www.ogis-ri.co.jp/otc/contest/osca2024/judge.html">
-        <img src="https://github.com/user-attachments/assets/bfd268af-553f-4772-960e-150af62379f9" alt="hackasonチャンピオン" width="80%"/>
+        <img src="https://github.com/user-attachments/assets/fcb51829-2835-42d1-abd5-98a8229a1f08" alt="hackasonチャンピオン" width="80%"/>
       </a>
     </td>
     <td style="vertical-align: top;">
