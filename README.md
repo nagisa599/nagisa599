@@ -37,10 +37,16 @@
 ### Hackson Award
 <table>
   <tr>
+     <th style="vertical-align: top;">OGIS-RI Software Challenge Award2024 </th>
     <th style="vertical-align: top;">Live Excitement Products Hackathon</th>
     <th style="vertical-align: top;">GIIKU CAMP Hackason Vol.9 </th>
   </tr>
   <tr>
+     <td style="vertical-align: top;">
+      <a href="https://x.com/geek_pjt/status/1814952872511221935">
+        <img src="https://github.com/user-attachments/assets/ed4bae60-1f6a-4587-b5ab-cb2f94bcb9c7" alt="hackasonチャンピオン" width="100%"/>
+      </a>
+    </td>
     <td style="vertical-align: top;">
       <a href="https://www.craftstadium.com/blog/RR240629-hilight">
         <img src="https://github.com/user-attachments/assets/780073ad-fb9c-4437-a0d7-839b42eb5e0b" alt="hackasonチャンピオン" width="100%"/>
@@ -71,6 +77,10 @@
       <p style="color: red;">🥉 Effort award - MY GACHA PON</p>
       <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
       <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
+    </td>
+        <td style="vertical-align: top;">
+      <p style="color: red;">🥉　特別賞 - BoxKeyPer</p>
+
     </td>
   </tr>
 </table>
