@@ -60,9 +60,13 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <p style="color: red;">🥉 Effort award - MY GACHA PON</p>
-      <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
-      <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
+      <p style="color: red;">🥉 努力賞 - BoxKeyPer</p>
+      <p><a href="https://www.ogis-ri.co.jp/otc/contest/osca2024/judge.html">紹介URL</a></p>
+      <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github.com/orgs/softwareContest-team-taiyou/repositories" alt="Readme Card" />
+        </a>
+      </p>
     </td>
     <td style="vertical-align: top;">
       <p style="color: red;">🏆 champion - かシャッタ</p>
