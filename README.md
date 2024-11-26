@@ -78,8 +78,7 @@
       <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
       <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
     </td>
-        <td style="vertical-align: top;">
-      <p style="color: red;">🥉　特別賞 - BoxKeyPer</p>
+     
 
     </td>
   </tr>
