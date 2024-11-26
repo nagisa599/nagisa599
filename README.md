@@ -60,6 +60,11 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
+      <p style="color: red;">🥉 Effort award - MY GACHA PON</p>
+      <p><a href="https://my-chara-pon.web.app/">作品URL</a></p>
+      <p><a href="https://x.com/geek_pjt/status/1814952872511221935">紹介URL</a></p>
+    </td>
+    <td style="vertical-align: top;">
       <p style="color: red;">🏆 champion - かシャッタ</p>
       <p><a href="https://github.com/your-username/your-repository">紹介URL</a></p>
       <p>
