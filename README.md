@@ -20,7 +20,7 @@
 ### background 
 #### 🌱 CEO at [Manamu](https://www.manamu.jp/)
 #### 💻 Engineer at [Agri-Pass](https://agri-pass-inc.com/)
-
+#### 🧪Research members at [nislab(Doshisha)](https://nisk.doshisha.ac.jp/)
 
 ### Languages
 
