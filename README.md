@@ -52,7 +52,7 @@
   <tr>
     <td style="vertical-align: top;">
       <p style="color: red;">🥉 努力賞 - BoxKeyPer</p>
-      <p><a href="https://www.ogis-ri.co.jp/otc/contest/osca2024/judge.html">紹介URL</a></p>
+      <p><a href="https://www.ogis-ri.co.jp/otc/hiroba/Report/osca/2024/">紹介URL</a></p>
     </td>
     <td style="vertical-align: top;">
       <p style="color: red;">🏆 champion - かシャッタ</p>
