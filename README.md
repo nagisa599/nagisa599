@@ -25,7 +25,6 @@
 - [SKY株式会社(full stack engineer)](https://www.sky-recruit.jp/internship/long-term/)
 - [サイバーエージェント(backend enginner)](https://developers.cyberagent.co.jp/blog/archives/56475/)
 
-
 ### Hackson Award
 <table>
   <tr>
