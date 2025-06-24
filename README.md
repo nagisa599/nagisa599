@@ -28,7 +28,7 @@
 ### Hackson Award
 <table>
   <tr>
-     <th style="vertical-align: top;">OGIS-RI Software Challenge Award2024 </th>
+    <th style="vertical-align: top;">OGIS-RI Software Challenge Award2024 </th>
     <th style="vertical-align: top;">Live Excitement Products Hackathon</th>
     <th style="vertical-align: top;">GIIKU CAMP Hackason Vol.9 </th>
   </tr>
@@ -53,15 +53,10 @@
     <td style="vertical-align: top;">
       <p style="color: red;">🥉 努力賞 - BoxKeyPer</p>
       <p><a href="https://www.ogis-ri.co.jp/otc/contest/osca2024/judge.html">紹介URL</a></p>
-      <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github.com/orgs/softwareContest-team-taiyou/repositories" alt="Readme Card" />
-        </a>
-      </p>
     </td>
     <td style="vertical-align: top;">
       <p style="color: red;">🏆 champion - かシャッタ</p>
-      <p><a href="https://github.com/your-username/your-repository">紹介URL</a></p>
+      <p><a href="https://www.craftstadium.com/blog/RR240629-hilight">紹介URL</a></p>
       <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrecO-Tech&repo=hackason_backend" alt="Readme Card" />
