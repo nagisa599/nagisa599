@@ -23,7 +23,7 @@
 #### 🧪Research members at [nislab(Doshisha)](https://nisk.doshisha.ac.jp/)
 #### 📖Internshift
 - [SKY株式会社(full stack engineer)](https://www.sky-recruit.jp/internship/long-term/)
-- [エムスリー株式会社(ソフトウェアエンジニア](https://fresh.m3recruit.com/#internship)
+- [エムスリー株式会社(software enginner)](https://fresh.m3recruit.com/#internship)
 - [サイバーエージェント(backend enginner)](https://developers.cyberagent.co.jp/blog/archives/56475/)
 
 ### Hackson Award
