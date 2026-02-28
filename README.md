@@ -16,7 +16,11 @@
   <a href="https://zenn.dev/naginagi124"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
   <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5890a50-3cfa-433e-8c0a-cdccff8662b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="left">
+  <a href="https://www.credly.com/badges/d5890a50-3cfa-433e-8c0a-cdccff8662b2/public_url">
+    <img src="" width="120"/>
+  </a>
+</p>
 
 ### background 
 #### 🌱 CEO at [Manamu](https://www.manamu.jp/)
