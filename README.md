@@ -21,6 +21,11 @@
     <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120"/>
   </a>
 </p>
+<p align="left">
+  <a href="">
+    <img src="https://images.credly.com/size/680x680/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png" width="120"/>
+  </a>
+</p>
 
 ### background 
 #### 🌱 CEO at [Manamu](https://www.manamu.jp/)
