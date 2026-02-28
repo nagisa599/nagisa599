@@ -18,7 +18,7 @@
 </p>
 <p align="left">
   <a href="https://www.credly.com/badges/d5890a50-3cfa-433e-8c0a-cdccff8662b2/public_url">
-    <img src="" width="120"/>
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120"/>
   </a>
 </p>
 
