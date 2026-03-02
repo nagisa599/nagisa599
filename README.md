@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D7C87CF552E8EF228A089ED6C6EBA3C580874C0EF3D2F936596D31A41D15847">
     <img src="https://images.credly.com/size/680x680/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png" width="120"/>
   </a>
 </p>
