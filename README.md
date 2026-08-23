@@ -26,6 +26,10 @@
     <a href="https://www.credly.com/badges/6745ae3f-09e8-42de-b3ca-8265662a54ac/public_url">
     <img src="https://images.credly.com/size/220x220/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" width="120"/>
   </a>
+  </a>
+    <a href="https://www.credly.com/badges/b17a938f-20dc-4d15-bddf-76cfa071382e/public_url">
+    <img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="120"/>
+  </a>
 </p>
 <p align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D7C87CF552E8EF228A089ED6C6EBA3C580874C0EF3D2F936596D31A41D15847">
