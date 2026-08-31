@@ -30,6 +30,10 @@
     <a href="https://www.credly.com/badges/b17a938f-20dc-4d15-bddf-76cfa071382e/public_url">
     <img src="https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="120"/>
   </a>
+    </a>
+    <a href="https://www.credly.com/badges/98cbb514-2d9e-4c1e-93f4-832a2cb70895/public_url">
+    <img src="https://images.credly.com/size/220x220/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="120"/>
+  </a>
 </p>
 <p align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D7C87CF552E8EF228A089ED6C6EBA3C580874C0EF3D2F936596D31A41D15847">
