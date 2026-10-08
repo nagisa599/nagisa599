@@ -17,6 +17,9 @@
   <a href="https://qiita.com/yuuchubu39"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
 <p align="left">
+  <a href="https://www.credly.com/badges/80038c64-e6d2-44d9-821e-aa4ab85c23fa/public_url">
+    <img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="120"/>
+  </a>
   <a href="https://www.credly.com/badges/d5890a50-3cfa-433e-8c0a-cdccff8662b2/public_url">
     <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120"/>
   </a>
